@@ -3,6 +3,7 @@
 This dataset contains student academic and behavioral data, converted into numeric format for machine learning tasks. It is designed to classify students into Best (1) or Worst (0) based on multiple factors.
 
 📊 Dataset Overview
+
 Rows: 30 students
 Columns: 15 features
 Target Variable: Performance
