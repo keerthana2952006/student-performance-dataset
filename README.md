@@ -38,6 +38,7 @@ Internet Usage: High = 0, Medium = 1, Low = 2
 Performance: Best = 1, Worst = 0
 
 🎯 Performance Criteria (Important)
+
 The Performance (target variable) is determined based on the following key factors:
 Math marks
 Science marks
