@@ -29,6 +29,7 @@ Each row represents one student, and each column represents a feature used for p
 | Performance    | Target (Best/Worst)             |
 
 🔢 Data Encoding
+
 Categorical values are converted into numeric values:
 Gender: Male = 0, Female = 1
 Sports / Cultural: Yes = 1, No = 0
@@ -49,6 +50,7 @@ Best (1) → High-performing students
 Worst (0) → Low-performing students
 
 🎯 Objective
+
 The goal of this dataset is to:
 Analyze student performance
 Apply data preprocessing techniques
@@ -56,12 +58,14 @@ Train machine learning models for classification
 Understand how academic and behavioral factors influence performance
 
 ⚙️ Use Cases
+
 Data analysis using Pandas
 Data visualization using Matplotlib / Seaborn
 Classification models (Logistic Regression, Decision Tree)
 Academic performance prediction
 
 ⚠️ Note
+
 This dataset is manually created for learning purposes
 It follows a rule-based approach for generating the target variable
 Suitable for beginners in ML and data science
